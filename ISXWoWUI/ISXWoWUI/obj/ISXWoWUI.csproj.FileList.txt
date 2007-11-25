@@ -1,0 +1,5 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ISXWoWUI.dll
+obj\Release\ISXWoWUI.pdb
+..\..\ISXWoWUI.dll
+..\..\ISXWoWUI.pdb

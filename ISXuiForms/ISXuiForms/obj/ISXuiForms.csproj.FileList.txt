@@ -1,0 +1,8 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ISXuiForms.csproj.GenerateResource.Cache
+obj\Release\ISXuiForms.exe
+obj\Release\ISXuiForms.pdb
+X:\Games\InnerSpace\.NET Programs\ISXuiForms.exe
+X:\Games\InnerSpace\.NET Programs\ISXuiForms.pdb
+obj\Release\ISXuiDemoForm.Properties.Resources.resources
+obj\Release\ISXuiDemoForm.uiDemoForm.resources

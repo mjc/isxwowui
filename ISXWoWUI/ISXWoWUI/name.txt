@@ -1,0 +1,7 @@
+Microsoft (R) .NET Global Assembly Cache Utility.  Version 2.0.50727.42
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+The Global Assembly Cache contains the following assemblies:
+  ISXWoWUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c87760b7ef701af9, processorArchitecture=MSIL
+
+Number of items = 1
